@@ -1,4 +1,4 @@
-# Credentials 
+#Login Credentials 
 # Replace with your own
 
 sender_email = "example@gmail.com"
